@@ -12,7 +12,7 @@ body {
 
 .container {
     text-align: center;
-    background: rgba(255, 255, 255, 0.8); /* Beyaz arka planı biraz şeffaf yapar */
+    background: rgba(0, 0, 0, 0.8); /* Beyaz arka planı biraz şeffaf yapar */
     padding: 2rem;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -29,7 +29,7 @@ h1 {
 
 .link {
     text-decoration: none;
-    color: white;
+    color: black;
     background-color: #007BFF;
     padding: 1rem;
     margin: 0.5rem 0;
